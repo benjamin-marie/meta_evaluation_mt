@@ -1,8 +1,12 @@
 Annotations for the Meta-Evaluation of Machine Translation Research
 =============
 
-The annotations are available [here](https://docs.google.com/spreadsheets/d/1C4kYnnKbIn2U_zEWsLGkReUzb-HqGxN4cQqje4uojmE).
+The annotations are available [here](https://docs.google.com/spreadsheets/d/1l9OL1HbUfZ6woawTAapqe-ASEn2DWw8FB64o1NO-K_U).
 
+**Last update July 9th 2022**: 2021 *ACL conferences + various charts added.  
+
+
+The original version published at ACL 2021 is still available [here](https://docs.google.com/spreadsheets/d/1C4kYnnKbIn2U_zEWsLGkReUzb-HqGxN4cQqje4uojmE).
 
 These annotations were used to conduct a meta-evaluation of machine translation publications published from 2010 to 2020 at conferences organized by the ACL. The analysis of this meta-evaluation, including pitfalls and concerning trends, is presented in the following publication: "Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers" by Benjamin Marie, Atsushi Fujita, and Raphael Rubino (ACL2021).
 
